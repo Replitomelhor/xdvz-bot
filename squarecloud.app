@@ -1,0 +1,6 @@
+DISPLAY_NAME=Cyans V1
+DESCRIPTION=Cyans v1
+MAIN=index.js
+MEMORY=100
+VERSION=recommended
+AUTORESTART=false
