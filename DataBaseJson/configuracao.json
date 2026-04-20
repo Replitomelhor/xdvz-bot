@@ -1,0 +1,19 @@
+{
+    "Emojis_EntregAbaixo": [],
+    "Emojis_EntregAuto": [],
+    "pagamentos": {
+        "SemiAutomatico": {
+            "status": false
+        },
+        "BancosBloqueados": []
+    },
+    "ConfigChannels": {},
+    "Status1": "XDVZ ApplicationS",
+    "Status2": "https://discord.gg/5DfjvMXtYD",
+    "AntiFake": {
+        "diasminimos": 3,
+        "status": [],
+        "nomes": []
+    },
+    "ConfigRoles": {}
+}
